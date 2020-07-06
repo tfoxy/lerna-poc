@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+    "lerna": "^3.22.1"
+  },
+  "name": "react-monorepo-project",
+  "scripts": {
+    "lerna": "lerna"
+  }
+}
